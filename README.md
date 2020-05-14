@@ -1,2 +1,2 @@
-# duancuo.github.io
-duancuo.com website
+# sanxs.github.io
+sanxs.com website
